@@ -1,6 +1,16 @@
 # Reinforcement-Learning-Roadmap
 A roadmap for reinforcement learning
 
+### Good Starting Point
+- Markov Decision Process
+https://www.youtube.com/watch?feature=player_embedded&v=wKx4MuLfe0M
+https://www.youtube.com/watch?feature=player_embedded&v=2M7mv4-BPCg
+
+- Reinforcement Learning
+https://www.youtube.com/watch?feature=player_embedded&v=hsz0zq6AXGE
+https://www.youtube.com/watch?feature=player_embedded&v=R0vTZp0ve4s
+
+
 ### Introduciton to Reinforcement Learning
 - Key Concepts in Reinforcement learning
 https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
